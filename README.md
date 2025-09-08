@@ -40,6 +40,7 @@ Sistema bancário simples e funcional desenvolvido em Python, utilizando os prin
 
 
 💾 Persistência de dados
+
 Todos os dados são salvos automaticamente no arquivo banco_data.json ao sair do sistema. Ao iniciar novamente, os dados são carregados e restaurados.
 
 📦 Requisitos
@@ -47,7 +48,8 @@ Python 3.8 ou superior
 
 Nenhuma biblioteca externa é necessária
 
-📚 Exemplos de uso
+## 📚 Exemplos de uso
+
   [1] Cadastrar Cliente
   [2] Autenticar Cliente
   [3] Criar Conta Corrente
