@@ -1,4 +1,4 @@
-# 💸 Banco Pobre
+# 💸 Banco do Pobre
 
 Sistema bancário simples e funcional desenvolvido em Python, utilizando os princípios da Programação Orientada a Objetos (POO). O projeto simula operações bancárias básicas como cadastro de clientes, criação de contas, depósitos, saques e geração de extratos, com persistência de dados em JSON.
 
