@@ -39,7 +39,7 @@ Sistema bancário simples e funcional desenvolvido em Python, utilizando os prin
    cd banco-pobre
 
 
-💾 Persistência de dados
+## 💾 Persistência de dados
 
 Todos os dados são salvos automaticamente no arquivo banco_data.json ao sair do sistema. Ao iniciar novamente, os dados são carregados e restaurados.
 
@@ -57,3 +57,22 @@ Nenhuma biblioteca externa é necessária
   [5] Sacar
   [6] Extrato
   [0] Sair
+
+
+## 🛠️ Sugestões de melhoria
+
+Implementar transferências entre contas
+
+Adicionar autenticação com senha
+
+Criar interface gráfica com Tkinter ou web com Flask
+
+Exportar extrato em PDF ou CSV
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+## 👨‍💻 Autor
+
+Desenvolvido por Douglas Castilho
